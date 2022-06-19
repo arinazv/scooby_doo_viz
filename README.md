@@ -10,8 +10,7 @@ In the list below you can see the hypotheses that we came up with:
 - Shaggy and Scooby eat the most food in the series 
 - the more monsters there are to catch, the more food the characters need
 
-Likewise, we were interested in distribution between different seasons and their ratings. Moreover, we wanted to know who caught and unmasked more monsters. 
-Moreover, we were wondering if there is a correlation between terrain, most common phrases and their amount. 
+Likewise, we were interested in distribution between different seasons and their ratings. Moreover, we wanted to know who caught and unmasked more monsters. Also we were wondering if there is a correlation between terrain, most common phrases and their amount. 
 
 For our project we used different kinds of charts to see what works best for different distributions, comparisons and correlations. 
 Among them are wordclouds, pie charts, box and whiskers plot, violin plot, bar charts, heat map and some others. 
