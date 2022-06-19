@@ -17,5 +17,5 @@ Among them are wordclouds, pie charts, box and whiskers plot, violin plot, bar c
 
 This project is based on the [Scooby Doo dataset](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-07-13/readme.md).
 
-The authors of the project: Arina Zvereva, Elizaveta Shemshurina, Aleksandra Nuzhnenko.
-Here is our [presentation](https://docs.google.com/presentation/d/1d48KqtrZTcl-wiTFfJ1Z0I6-H3vzGL6U_TW4CzvvCLU/edit?usp=sharing).
+The authors of the project: Arina Zvereva, Elizaveta Shemshurina and Aleksandra Nuzhnenko.
+Here you can see our [presentation](https://docs.google.com/presentation/d/1d48KqtrZTcl-wiTFfJ1Z0I6-H3vzGL6U_TW4CzvvCLU/edit?usp=sharing).
