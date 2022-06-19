@@ -15,3 +15,4 @@ Likewise, we were interested in distribution between different seasons and their
 For our project we used different kinds of charts to see what works best for different distributions, comparisons and correlations. 
 Among them are wordclouds, pie charts, box and whiskers plot, violin plot, bar charts, heat map and some others. 
 
+This project is based on the [Scooby Doo dataset](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-07-13/readme.md).
